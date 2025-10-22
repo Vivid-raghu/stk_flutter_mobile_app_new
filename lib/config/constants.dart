@@ -1,0 +1,1 @@
+// # Static values like strings, colors
