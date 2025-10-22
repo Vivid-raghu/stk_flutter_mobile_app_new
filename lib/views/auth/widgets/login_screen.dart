@@ -112,7 +112,6 @@ class _LoginFormWidgetState extends State<LoginFormWidget> {
           ),
           const SizedBox(height: 12),
           Row(
-            //crossAxisAlignment: CrossAxisAlignment.center,
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
               Row(
